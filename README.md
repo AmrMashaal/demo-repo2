@@ -1,3 +1,10 @@
 # This is DEMO2
 
-hello world
+
+## Description
+
+That is a description
+
+## Local Development
+
+1. open index.html in your browser
